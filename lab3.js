@@ -7,6 +7,14 @@
 
 //         (use this space)
 
+function cube (int);
+{
+
+return int * int * int ;
+
+}
+
+ 
 
 
 
